@@ -93,4 +93,9 @@ add_item(ItemName, CompanyName, Price).
 remove_item(ItemName, CompanyName, Price).
 ```
 
+# Contributors
 
+* [Ahmed Abd El-Wahab](https://github.com/AliveTube)
+* [Mohamed Khaled (Amin)](https://github.com/emailam)
+* [Alan Samir](https://github.com/alanhakoun)
+* [Mohamed Essam](https://github.com/MohamedEssam71)
